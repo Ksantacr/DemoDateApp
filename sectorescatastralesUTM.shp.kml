@@ -13,15 +13,31 @@
 	<SimpleField name="Field_1" type="string"></SimpleField>
 </Schema>
 <Folder><name>UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_</name>
-  <Placemark>
-	<name>Bastión Popular BL.2</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+<Placemark>
+	<name>Bastión Popular BL.1</name>
+	<Style><LineStyle><color>50B43214</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer">Level 56</SimpleData>
 		<SimpleData name="FID_">0</SimpleData>
 		<SimpleData name="Level">56</SimpleData>
-		<SimpleData name="Nam_Sector">Bastión Popular BL.2</SimpleData>
+		<SimpleData name="Nam_Sector">Bastión Popular BL.1</SimpleData>
+		<SimpleData name="Des_CAMI">CM.3</SimpleData>
+		<SimpleData name="Entity">Closed Shape</SimpleData>
+		<SimpleData name="FID">5</SimpleData>
+		<SimpleData name="Field_1">Closed Shape</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.9364465772825,-2.09276126046854 -79.9355815850025,-2.09929725419371 -79.9344405313565,-2.10598134377754 -79.9325265058858,-2.10514814859842 -79.9309069458722,-2.10833280329162 -79.9221650026167,-2.10420386018315 -79.9198460871426,-2.10207458025801 -79.9162940975672,-2.0990195213121 -79.9138463534556,-2.09709390529162 -79.9152082561944,-2.09694578088286 -79.916551754842,-2.09748273179702 -79.9173431307578,-2.0981492912927 -79.9207110794226,-2.09894545920191 -79.9215392635205,-2.09587187849445 -79.9226435089843,-2.09165032394327 -79.9255697594635,-2.09148368339571 -79.9282015444857,-2.09140962092438 -79.9284407976696,-2.09163180832776 -79.9364465772825,-2.09276126046854</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Bastión Popular BL.2 Cueva del Lobo</name>
+	<Style><LineStyle><color>5014B45A</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="Layer">Level 56</SimpleData>
+		<SimpleData name="FID_">0</SimpleData>
+		<SimpleData name="Level">56</SimpleData>
+		<SimpleData name="Nam_Sector">Bastión Popular BL.2 Cueva del Lobo</SimpleData>
 		<SimpleData name="Des_CAMI">CM.12</SimpleData>
 		<SimpleData name="Entity">Closed Shape</SimpleData>
 		<SimpleData name="FID">1</SimpleData>
@@ -31,7 +47,7 @@
   </Placemark>
   <Placemark>
 	<name>Plan Mucho Lote 1</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>5014F028</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer">Level 56</SimpleData>
@@ -47,7 +63,7 @@
   </Placemark>
   <Placemark>
 	<name>Ciudadela Las Orquideas</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>5014B4C8</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer">Level 56</SimpleData>
@@ -63,7 +79,7 @@
   </Placemark>
   <Placemark>
 	<name>Los Vergeles</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>501478FF</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer">Level 56</SimpleData>
@@ -79,7 +95,7 @@
   </Placemark>
   <Placemark>
 	<name>Florida Norte</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>50780000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer">Level 56</SimpleData>
@@ -95,7 +111,7 @@
   </Placemark>
   <Placemark>
 	<name>Km. 8 1/2 Vía a Daule</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>5078FF00</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer">Level 56</SimpleData>
@@ -111,7 +127,7 @@
   </Placemark>
   <Placemark>
 	<name>Prosperina</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>5078003C</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer">Level 56</SimpleData>
@@ -127,7 +143,7 @@
   </Placemark>
   <Placemark>
 	<name>Mapasingue Oeste</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>50780078</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer">Level 56</SimpleData>
@@ -143,7 +159,7 @@
   </Placemark>
   <Placemark>
 	<name>Parroquia Letamendi</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>5078FFB4</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer">PoligVerde</SimpleData>
@@ -158,24 +174,8 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.9093346708975,-2.22324367001713 -79.9090998585881,-2.22290509585703 -79.908672651185,-2.22282323707504 -79.9073706857661,-2.22290509585702 -79.9072282832984,-2.2199377120721 -79.907004507992,-2.2184642502939 -79.9020814512518,-2.20315653177903 -79.9010642907683,-2.20033236304782 -79.9096491252492,-2.19822446546203 -79.9116020733776,-2.20503930791857 -79.9116834462162,-2.20532581711951 -79.9148569869248,-2.20497791308251 -79.9150400758119,-2.20602162494621 -79.9164234140694,-2.20593976521901 -79.9178067523271,-2.20577604575094 -79.9177660659077,-2.20767928343946 -79.9187221967622,-2.20737230978572 -79.9205123992132,-2.20704487115094 -79.921265097971,-2.20718812556264 -79.9215905893257,-2.20755649398568 -79.9219364238902,-2.20769974834742 -79.9224653473416,-2.2081499762504 -79.9224227812692,-2.20827415627547 -79.9223751619096,-2.208297136717 -79.9205508371818,-2.20866418418016 -79.9176176910252,-2.20940349398455 -79.9078432508443,-2.21034824784404 -79.9093346708975,-2.22324367001713</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<name>Suburbio Sector 10</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
-		<SimpleData name="altitudeMode">clampToGround</SimpleData>
-		<SimpleData name="Layer">Level 6</SimpleData>
-		<SimpleData name="FID_">0</SimpleData>
-		<SimpleData name="Level">6</SimpleData>
-		<SimpleData name="Nam_Sector">Suburbio Sector 10</SimpleData>
-		<SimpleData name="Des_CAMI"></SimpleData>
-		<SimpleData name="Entity">Closed Shape</SimpleData>
-		<SimpleData name="FID">12</SimpleData>
-		<SimpleData name="Field_1">Closed Shape</SimpleData>
-	</SchemaData></ExtendedData>
-      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.9257288514209,-2.19933707898472 -79.9326212535464,-2.19754583777431 -79.934621120572,-2.19701986522945 -79.9355210610644,-2.19670731053699 -79.9360674535062,-2.1962223117451 -79.9360685403564,-2.19616611462312 -79.9376158101511,-2.19851747889925 -79.9403505459258,-2.20088912598389 -79.9422365705981,-2.20126858916273 -79.9448298545224,-2.20107885758553 -79.9465272767275,-2.20103142468741 -79.9472816865964,-2.20221724668152 -79.9472570178355,-2.20338361834281 -79.9471827899451,-2.20341105525332 -79.9372363813654,-2.2061984215267 -79.9351835833797,-2.20677369382449 -79.9304267550628,-2.20819634628535 -79.9281314650616,-2.20892607728068 -79.9279358421642,-2.20811067192678 -79.9257288514209,-2.19933707898472</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
-  </Placemark>
-  <Placemark>
 	<name>Isla Trinitaria</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>5078FFB4</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer">Level 7</SimpleData>
@@ -190,8 +190,8 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.9383433912023,-2.235788774553 -79.934465966901,-2.23837001516084 -79.9295621655787,-2.2446796950227 -79.9271102649175,-2.25121878866375 -79.9150218244487,-2.2462284304094 -79.91279800757,-2.24313095797311 -79.9129690704068,-2.24014820045596 -79.9155350129592,-2.23177350224245 -79.9199826467166,-2.2282744701668 -79.9255706993861,-2.23085572415327 -79.9259698460054,-2.23223239106934 -79.9277374953192,-2.23280600189878 -79.9337246946081,-2.23228975216247 -79.9357774486499,-2.23280600189878 -79.9383433912023,-2.235788774553</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<name></name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<name>Saiba</name>
+	<Style><LineStyle><color>50787878</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer">Level 7</SimpleData>
@@ -206,8 +206,24 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.9057400377905,-2.22509310057401 -79.9057157035922,-2.22323265890322 -79.9053993590151,-2.22102950121962 -79.907005416099,-2.22315922036743 -79.9091468255442,-2.22340401547229 -79.9097795146984,-2.22443215446326 -79.9104122038527,-2.22546029272803 -79.9113369033859,-2.22607227944546 -79.9111665639982,-2.22646395080947 -79.9100228566809,-2.2265373891785 -79.9101201934738,-2.2277858408842 -79.9100715883136,-2.22949717382528 -79.9100715250773,-2.22949940030264 -79.9100325505394,-2.22949813555722 -79.9078084446409,-2.2294259620833 -79.9062753901517,-2.22949940030265 -79.9060320481693,-2.22702697821047 -79.9043286542925,-2.22719833433272 -79.9040853123101,-2.22531341587755 -79.9048072647616,-2.22521595552931 -79.9051056429681,-2.22487827596242 -79.9053263185166,-2.22487202263635 -79.9053573995798,-2.22513778896987 -79.9057400377905,-2.22509310057401</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
+	<name>Guasmo Norte</name>
+	<Style><LineStyle><color>501E78F0</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="Layer">Level 7</SimpleData>
+		<SimpleData name="FID_">0</SimpleData>
+		<SimpleData name="Level">7</SimpleData>
+		<SimpleData name="Nam_Sector">Guasmo Norte</SimpleData>
+		<SimpleData name="Des_CAMI">CM.7</SimpleData>
+		<SimpleData name="Entity">Closed Shape</SimpleData>
+		<SimpleData name="FID">19</SimpleData>
+		<SimpleData name="Field_1">Closed Shape</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.8942874302151,-2.25110401941332 -79.8899645094086,-2.25086420404596 -79.8872626839046,-2.25081624096769 -79.8860548089734,-2.25083222866063 -79.8844496067621,-2.2509281548145 -79.8813663470692,-2.2520153174446 -79.8792684590308,-2.25350217088705 -79.8783943390148,-2.26087246467678 -79.8682068675554,-2.26306276159946 -79.8666175584353,-2.26127215414621 -79.8655209351425,-2.260200986117 -79.8654732558689,-2.25976932116237 -79.8672214959009,-2.25775488298832 -79.869923321405,-2.2556924790691 -79.8714490581602,-2.25442945505072 -79.8725297883619,-2.2530385285808 -79.8760421615171,-2.25008080690065 -79.8780287979172,-2.24806635514043 -79.8790141695716,-2.24661147156119 -79.879681679402,-2.24584405985075 -79.8827649390949,-2.24079192256685 -79.8842747827589,-2.24173520270586 -79.8840204932997,-2.24287033561576 -79.8909657741543,-2.24283836005304 -79.8932861654695,-2.24322206675882 -79.8934133101991,-2.24243866545939 -79.8954476258728,-2.24279039670764 -79.8942874302151,-2.25110401941332</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
 	<name>Guasmo Oeste</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>A02b34fff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer">Level 7</SimpleData>
@@ -223,7 +239,7 @@
   </Placemark>
   <Placemark>
 	<name>Guasmo Sur</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>50F0E614</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer">Level 7</SimpleData>
@@ -239,7 +255,7 @@
   </Placemark>
   <Placemark>
 	<name>Guasmo Central</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>507828F0</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer">Level 7</SimpleData>
@@ -255,7 +271,7 @@
   </Placemark>
   <Placemark>
 	<name>Nueva Prosperina - Balerio Estacio</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>5078F03C</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer">Level 56</SimpleData>
@@ -270,24 +286,8 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.9748183744168,-2.08754595181492 -79.9763507802652,-2.08731689982976 -79.9762807274264,-2.08981885044933 -79.9759654896519,-2.09161602375353 -79.9743192479405,-2.09365986536783 -79.9755101461998,-2.09439987632094 -79.9761406217489,-2.09559798854157 -79.9779269691378,-2.09531607986734 -79.9788726824613,-2.09866374205147 -79.9732684553588,-2.10049614354014 -79.9760355424907,-2.10514761445563 -79.9797483429461,-2.10507713772845 -79.9805889770115,-2.10638095665851 -79.9818499281096,-2.10853049356088 -79.9797133165267,-2.1124067000403 -79.9767710972979,-2.11561337253825 -79.9744243271987,-2.11723432531111 -79.9729882440036,-2.11800956298653 -79.9731633761006,-2.12044098769067 -79.9750197763283,-2.12058193972876 -79.9797133165267,-2.12396478473744 -79.9781721540735,-2.12798190343472 -79.9717973457443,-2.12671334078033 -79.9702912097105,-2.12851047089528 -79.964511850511,-2.12953236746489 -79.9640565070589,-2.12791142775943 -79.9633472220663,-2.12477525690657 -79.9633121956469,-2.12422906918776 -79.9612456369028,-2.12426430711102 -79.9611930972737,-2.12334812084185 -79.9620512445488,-2.12294288443181 -79.9618410860325,-2.11994765545492 -79.9597745272884,-2.11973622730512 -79.959161564949,-2.1188728953897 -79.9563944778172,-2.11908432365898 -79.9561843193008,-2.1175690870828 -79.9568673344789,-2.114027656208 -79.9568147948498,-2.11353432190371 -79.9586186554485,-2.11342860738928 -79.9586186554485,-2.11334051195501 -79.9586011422388,-2.11106764800016 -79.9607552670313,-2.11112050533969 -79.9594242630945,-2.10666286330882 -79.9593717234654,-2.10632809915582 -79.9605801349344,-2.10613428829709 -79.9623139426942,-2.10682143577691 -79.9627517729366,-2.10713858066399 -79.9634873277438,-2.10809001493246 -79.9638375919377,-2.10960526088399 -79.964800818471,-2.11193098431786 -79.9655363732782,-2.11291765379996 -79.9666046790696,-2.11208955624174 -79.9678306037483,-2.113340511955 -79.9686712378137,-2.11265336739383 -79.9678831433774,-2.11101479065879 -79.9683910264586,-2.11046859802471 -79.9669724564732,-2.10883001895608 -79.9676904980708,-2.1080195383402 -79.9670950489411,-2.1074557254856 -79.9673577470865,-2.10710334234642 -79.9660617695691,-2.10641619499263 -79.9654137808103,-2.1059580965861 -79.9655713996976,-2.10569380898179 -79.9652911883425,-2.10542952133207 -79.9654137808103,-2.10535904461781 -79.96543129402,-2.10458380054777 -79.9663770073436,-2.10460141973551 -79.965834097843,-2.10201139697214 -79.9664645733921,-2.10169425102828 -79.9660442563594,-2.10009090109073 -79.9664470601824,-2.09996756641109 -79.9669724564732,-2.1015532972545 -79.9674978527641,-2.10142996269185 -79.9680933018937,-2.10273378471164 -79.9719812344462,-2.10049614354014 -79.9704225587833,-2.09813516429445 -79.9727167892534,-2.09646133353648 -79.9705976908802,-2.09443511492891 -79.972506630737,-2.09316652453571 -79.9722964722207,-2.09270842219358 -79.972103826914,-2.0921269844102 -79.9727518156728,-2.09180983643625 -79.9724891175273,-2.09115792095247 -79.972681762834,-2.09108744358644 -79.9742229252872,-2.09142221104655 -79.9743280045454,-2.08981885044934 -79.9748008612071,-2.08867359186401 -79.9748183744168,-2.08754595181492</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<name>Guasmo Norte</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
-		<SimpleData name="altitudeMode">clampToGround</SimpleData>
-		<SimpleData name="Layer">Level 7</SimpleData>
-		<SimpleData name="FID_">0</SimpleData>
-		<SimpleData name="Level">7</SimpleData>
-		<SimpleData name="Nam_Sector">Guasmo Norte</SimpleData>
-		<SimpleData name="Des_CAMI">CM.7</SimpleData>
-		<SimpleData name="Entity">Closed Shape</SimpleData>
-		<SimpleData name="FID">19</SimpleData>
-		<SimpleData name="Field_1">Closed Shape</SimpleData>
-	</SchemaData></ExtendedData>
-      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.8942874302151,-2.25110401941332 -79.8899645094086,-2.25086420404596 -79.8872626839046,-2.25081624096769 -79.8860548089734,-2.25083222866063 -79.8844496067621,-2.2509281548145 -79.8813663470692,-2.2520153174446 -79.8792684590308,-2.25350217088705 -79.8783943390148,-2.26087246467678 -79.8682068675554,-2.26306276159946 -79.8666175584353,-2.26127215414621 -79.8655209351425,-2.260200986117 -79.8654732558689,-2.25976932116237 -79.8672214959009,-2.25775488298832 -79.869923321405,-2.2556924790691 -79.8714490581602,-2.25442945505072 -79.8725297883619,-2.2530385285808 -79.8760421615171,-2.25008080690065 -79.8780287979172,-2.24806635514043 -79.8790141695716,-2.24661147156119 -79.879681679402,-2.24584405985075 -79.8827649390949,-2.24079192256685 -79.8842747827589,-2.24173520270586 -79.8840204932997,-2.24287033561576 -79.8909657741543,-2.24283836005304 -79.8932861654695,-2.24322206675882 -79.8934133101991,-2.24243866545939 -79.8954476258728,-2.24279039670764 -79.8942874302151,-2.25110401941332</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
-  </Placemark>
-  <Placemark>
 	<name>Paraiso de La Flor</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>501400F0</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer">Level 56</SimpleData>
@@ -303,7 +303,7 @@
   </Placemark>
   <Placemark>
 	<name>El Fortín</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>5078323C</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer">Level 56</SimpleData>
@@ -319,7 +319,7 @@
   </Placemark>
   <Placemark>
 	<name>Flor de Bastión</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>5078B4F0</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer">Level 56</SimpleData>
@@ -335,7 +335,7 @@
   </Placemark>
   <Placemark>
 	<name>Parroquia Urdaneta</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>5014F00A</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer"></SimpleData>
@@ -350,30 +350,14 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.9096898116685,-2.1978560947004 -79.9009829179296,-2.20012771292906 -79.8967718735278,-2.18684585948573 -79.898114525366,-2.18649795108845 -79.8985824191885,-2.18735748933323 -79.9011863500263,-2.18942447211634 -79.9031596413643,-2.19020214805924 -79.9075130882338,-2.18919935531971 -79.9096898116685,-2.1978560947004</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<name>Sector 9</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<name>Suburbio Sector 1</name>
+	<Style><LineStyle><color>50BE78F0</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer">Level 6</SimpleData>
 		<SimpleData name="FID_">0</SimpleData>
 		<SimpleData name="Level">6</SimpleData>
-		<SimpleData name="Nam_Sector">Sector 9</SimpleData>
-		<SimpleData name="Des_CAMI">CM.10</SimpleData>
-		<SimpleData name="Entity">Closed Shape</SimpleData>
-		<SimpleData name="FID">25</SimpleData>
-		<SimpleData name="Field_1">Closed Shape</SimpleData>
-	</SchemaData></ExtendedData>
-      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.9197386732819,-2.19035156447701 -79.9243193362117,-2.19007438430726 -79.9281856867898,-2.1899320845465 -79.9300717114621,-2.19035898378766 -79.9326178447696,-2.19225631225643 -79.9353997311612,-2.19514973347805 -79.9360685403564,-2.19616611462312 -79.9360674535062,-2.1962223117451 -79.9355210610644,-2.19670731053699 -79.934621120572,-2.19701986522945 -79.9326212535464,-2.19754583777431 -79.9257288514209,-2.19933707898472 -79.9220969487194,-2.20025318574264 -79.9199220925295,-2.19109209253901 -79.9197386732819,-2.19035156447701</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
-  </Placemark>
-  <Placemark>
-	<name>Sector 1</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
-		<SimpleData name="altitudeMode">clampToGround</SimpleData>
-		<SimpleData name="Layer">Level 6</SimpleData>
-		<SimpleData name="FID_">0</SimpleData>
-		<SimpleData name="Level">6</SimpleData>
-		<SimpleData name="Nam_Sector">Sector 1</SimpleData>
+		<SimpleData name="Nam_Sector">Suburbio Sector 1</SimpleData>
 		<SimpleData name="Des_CAMI">CM.31</SimpleData>
 		<SimpleData name="Entity">Closed Shape</SimpleData>
 		<SimpleData name="FID">26</SimpleData>
@@ -381,25 +365,25 @@
 	</SchemaData></ExtendedData>
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.9220969487194,-2.20025318574264 -79.9197505526563,-2.20082611896644 -79.9162762914279,-2.20171312330513 -79.9112601652901,-2.20300150259376 -79.9112199809309,-2.20301434828863 -79.9076339116894,-2.18913757729732 -79.908429578348,-2.18936288536658 -79.913286091879,-2.1899320845465 -79.9180483041765,-2.19045385026897 -79.9197386732819,-2.19035156447701 -79.9199220925295,-2.19109209253901 -79.9220969487194,-2.20025318574264</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
-  <Placemark>
-	<name>Suburbio Sector 8</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+   <Placemark>
+	<name>Suburbio Sector 2</name>
+	<Style><LineStyle><color>5014F0DC</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer">Level 6</SimpleData>
 		<SimpleData name="FID_">0</SimpleData>
 		<SimpleData name="Level">6</SimpleData>
-		<SimpleData name="Nam_Sector">Suburbio Sector 8</SimpleData>
-		<SimpleData name="Des_CAMI">CM.25</SimpleData>
+		<SimpleData name="Nam_Sector">Suburbio Sector 2</SimpleData>
+		<SimpleData name="Des_CAMI">CM.8</SimpleData>
 		<SimpleData name="Entity">Closed Shape</SimpleData>
-		<SimpleData name="FID">27</SimpleData>
+		<SimpleData name="FID">34</SimpleData>
 		<SimpleData name="Field_1">Closed Shape</SimpleData>
 	</SchemaData></ExtendedData>
-      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.9466914181739,-2.21475093134443 -79.9466685382351,-2.21477070714003 -79.946111432216,-2.21483537283782 -79.941611729754,-2.21597779969364 -79.9382048121757,-2.2186937542924 -79.9362847361108,-2.21626718083169 -79.9375405703836,-2.21535269831712 -79.9351835833797,-2.20677369382449 -79.9471827899451,-2.20341105525332 -79.9472570178355,-2.20338361834281 -79.9472345359795,-2.20444658944091 -79.9464329754938,-2.20662849609918 -79.9455371137745,-2.208952697449 -79.9451127582233,-2.21099229967924 -79.9459614693258,-2.21374338655927 -79.9466914181739,-2.21475093134443</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.9279358421642,-2.20811067192678 -79.9247477188183,-2.20920459835758 -79.9220909493633,-2.21028609300358 -79.922042326063,-2.21030650151442 -79.9220502127779,-2.21028081085163 -79.9224981436375,-2.20975905215843 -79.9226749584506,-2.20871553421471 -79.9227221090674,-2.20801590245009 -79.9221916646283,-2.20761272467141 -79.9216376448808,-2.20723326313141 -79.921236864638,-2.2068300851376 -79.920305639956,-2.20688937602599 -79.9179598967699,-2.20750600112321 -79.9179952597325,-2.20558497592806 -79.9151426474158,-2.2058577142262 -79.9149068943317,-2.20484976808935 -79.9117831659683,-2.20519365567264 -79.9112199809309,-2.20301434828863 -79.9112601652901,-2.20300150259376 -79.9162762914279,-2.20171312330513 -79.9197505526563,-2.20082611896644 -79.9220969487194,-2.20025318574264 -79.9257288514209,-2.19933707898472 -79.9279358421642,-2.20811067192678</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
-  <Placemark>
+   <Placemark>
 	<name>Suburbio Sector 3</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>5078BE3C</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer">Level 6</SimpleData>
@@ -413,41 +397,9 @@
 	</SchemaData></ExtendedData>
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.922042326063,-2.21030650151442 -79.9220909493633,-2.21028609300358 -79.9247477188183,-2.20920459835758 -79.9254629940437,-2.21208819407692 -79.9257838700643,-2.21331321833171 -79.9277960414973,-2.22099516132537 -79.9275868508954,-2.22107012982634 -79.9267849704342,-2.22132126480816 -79.9261398701891,-2.22156209015779 -79.9252674208806,-2.22205350774248 -79.9246201631977,-2.22247492895995 -79.9246350863905,-2.22251571467884 -79.9246777874181,-2.22259529628337 -79.9247490755943,-2.22272335079737 -79.9247803595401,-2.22276684941154 -79.9248553337964,-2.22291769283889 -79.9248428379956,-2.22294916360499 -79.9246721238695,-2.22300776449233 -79.9245930141582,-2.22308318647147 -79.9244535845266,-2.22307061604989 -79.9242772962879,-2.22315788482232 -79.9241898267794,-2.22325003681189 -79.9241731960723,-2.22343651109436 -79.9242606655808,-2.22372987804946 -79.9241823651831,-2.2238859666853 -79.9237098670965,-2.22418557294289 -79.9231374037007,-2.22442024839695 -79.9225914600001,-2.224697698746 -79.9219211887328,-2.2249889856504 -79.921719280097,-2.22534719302607 -79.9217255729897,-2.22551313899196 -79.921719280097,-2.225697532637 -79.9216360354794,-2.22579592440392 -79.9216401709344,-2.22589657700316 -79.92132374929,-2.22621349203042 -79.9206710572363,-2.22515085531936 -79.9192683263863,-2.22484254652663 -79.9174766029477,-2.22471210817157 -79.9157320301258,-2.22505599108239 -79.9152958869204,-2.22497298486997 -79.9147772301355,-2.22471210817157 -79.9148951066775,-2.22365674286908 -79.9155198523502,-2.22135628101997 -79.9157791807426,-2.21977915816977 -79.9157556054342,-2.21937598363359 -79.9159442079015,-2.21905581554019 -79.9160385091351,-2.21835618872124 -79.9158499066679,-2.21751426447757 -79.9160031461725,-2.21700436646016 -79.9162153239481,-2.21643517776533 -79.9166868301162,-2.21581855642898 -79.9177005683775,-2.21473946846434 -79.9179952597325,-2.21407541393636 -79.9181602868914,-2.21316233846801 -79.9185021288632,-2.2122374042957 -79.9186317930594,-2.21175122071435 -79.9189500597229,-2.21164449746755 -79.919775195517,-2.21181051140364 -79.9207417831615,-2.21153777421299 -79.9218026720397,-2.21108716483013 -79.922042326063,-2.21030650151442</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
-  <Placemark>
-	<name>Suburbio Sector 7</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
-		<SimpleData name="altitudeMode">clampToGround</SimpleData>
-		<SimpleData name="Layer">Level 6</SimpleData>
-		<SimpleData name="FID_">0</SimpleData>
-		<SimpleData name="Level">6</SimpleData>
-		<SimpleData name="Nam_Sector">Suburbio Sector 7</SimpleData>
-		<SimpleData name="Des_CAMI">CM.2</SimpleData>
-		<SimpleData name="Entity">Closed Shape</SimpleData>
-		<SimpleData name="FID">29</SimpleData>
-		<SimpleData name="Field_1">Closed Shape</SimpleData>
-	</SchemaData></ExtendedData>
-      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.9382048121757,-2.2186937542924 -79.941611729754,-2.21597779969364 -79.946111432216,-2.21483537283782 -79.9466685382351,-2.21477070714003 -79.9466914181739,-2.21475093134443 -79.9479889458485,-2.21654190066251 -79.9491205606518,-2.21858149230973 -79.949309163119,-2.22133256489954 -79.9488848075678,-2.22308755677042 -79.9470930841291,-2.22716671889219 -79.9467158791947,-2.2287319757387 -79.9467007636189,-2.2294998675166 -79.9458543063611,-2.22906175666625 -79.9451257831053,-2.22847977096423 -79.9446115313954,-2.22800556021985 -79.9447186671683,-2.22781156487073 -79.9446978271359,-2.22773454741463 -79.9442949091625,-2.22687814287894 -79.9403942824349,-2.22142345493738 -79.9390481892002,-2.21974522764406 -79.938583329434,-2.2191656674154 -79.9382048121757,-2.2186937542924</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
-  </Placemark>
-  <Placemark>
-	<name>Suburbio Sector 6</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
-		<SimpleData name="altitudeMode">clampToGround</SimpleData>
-		<SimpleData name="Layer">Level 6</SimpleData>
-		<SimpleData name="FID_">0</SimpleData>
-		<SimpleData name="Level">6</SimpleData>
-		<SimpleData name="Nam_Sector">Suburbio Sector 6</SimpleData>
-		<SimpleData name="Des_CAMI">CM.29</SimpleData>
-		<SimpleData name="Entity">Closed Shape</SimpleData>
-		<SimpleData name="FID">31</SimpleData>
-		<SimpleData name="Field_1">Closed Shape</SimpleData>
-	</SchemaData></ExtendedData>
-      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.933689876039,-2.23096345317952 -79.9326159082386,-2.22974803044004 -79.9318729581696,-2.22903801614125 -79.9312785981144,-2.22773009415611 -79.9316500731489,-2.22586163213584 -79.9329130882662,-2.22410527564847 -79.9332102682938,-2.22279734922806 -79.9335356305179,-2.22273121637985 -79.9354835635439,-2.22087082536104 -79.9365224577535,-2.22003968282697 -79.9377258111304,-2.21907696806656 -79.9382048121757,-2.2186937542924 -79.938583329434,-2.2191656674154 -79.9390481892002,-2.21974522764406 -79.9403942824349,-2.22142345493738 -79.9442949091625,-2.22687814287894 -79.9446978271359,-2.22773454741463 -79.9447186671683,-2.22781156487073 -79.9446115313954,-2.22800556021985 -79.9451257831053,-2.22847977096423 -79.9458543063611,-2.22906175666625 -79.9467007636189,-2.2294998675166 -79.9466215779611,-2.23352259984504 -79.9458671680922,-2.23508784983626 -79.9445941014384,-2.235657031232 -79.9405391483931,-2.236083917132 -79.9395489854401,-2.23584675831419 -79.9387945755712,-2.23470839544819 -79.9360598397965,-2.23205221195013 -79.9341738151242,-2.2311510057294 -79.9337023089561,-2.23096127803265 -79.933689876039,-2.23096345317952</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
-  </Placemark>
-  <Placemark>
+    <Placemark>
 	<name>Suburbio Sector 4</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>50B44614</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer">Level 6</SimpleData>
@@ -461,9 +413,9 @@
 	</SchemaData></ExtendedData>
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.9277960414973,-2.22099516132537 -79.9293900034381,-2.22005076018003 -79.9316091084244,-2.2192801725241 -79.931628346361,-2.21935324317013 -79.9323087534184,-2.22084583778275 -79.9326430809495,-2.22172868942784 -79.9329356175392,-2.2223382771564 -79.9332102682938,-2.22279734922806 -79.9331423433212,-2.22309629562052 -79.9329130882662,-2.22410527564847 -79.9316500731489,-2.22586163213584 -79.9312785981144,-2.22773009415611 -79.9318729581696,-2.22903801614125 -79.9326159082386,-2.22974803044004 -79.933689876039,-2.23096345317952 -79.92936445221,-2.23172018867076 -79.9271012226033,-2.23195734816378 -79.9262996621176,-2.23172018867076 -79.9257810053327,-2.22963318346115 -79.9253743312627,-2.22793748951971 -79.9251267905245,-2.22748688520247 -79.9240305386838,-2.22714300286639 -79.922639595488,-2.22771218737856 -79.9219794868527,-2.22759360729023 -79.9215669189556,-2.22660939218386 -79.92132374929,-2.22621349203042 -79.9216401709344,-2.22589657700316 -79.9216360354794,-2.22579592440392 -79.921719280097,-2.225697532637 -79.9217255729897,-2.22551313899196 -79.921719280097,-2.22534719302607 -79.9219211887328,-2.2249889856504 -79.9225914600001,-2.224697698746 -79.9231374037007,-2.22442024839695 -79.9237098670965,-2.22418557294289 -79.9241823651831,-2.2238859666853 -79.9242606655808,-2.22372987804946 -79.9241731960723,-2.22343651109436 -79.9241898267794,-2.22325003681189 -79.9242772962879,-2.22315788482232 -79.9244535845266,-2.22307061604989 -79.9245930141582,-2.22308318647147 -79.9246721238695,-2.22300776449233 -79.9248428379956,-2.22294916360499 -79.9248553337964,-2.22291769283889 -79.9247803595401,-2.22276684941154 -79.9247490755943,-2.22272335079737 -79.9246777874181,-2.22259529628337 -79.9246350863905,-2.22251571467884 -79.9246201631977,-2.22247492895995 -79.9252674208806,-2.22205350774248 -79.9261398701891,-2.22156209015779 -79.9267849704342,-2.22132126480816 -79.9275868508954,-2.22107012982634 -79.9277960414973,-2.22099516132537</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
-  <Placemark>
+   <Placemark>
 	<name>Suburbio Sector 5</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>50507800</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer">Level 6</SimpleData>
@@ -478,8 +430,89 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.9247477188183,-2.20920459835758 -79.9279358421642,-2.20811067192678 -79.9281314650616,-2.20892607728068 -79.9304267550628,-2.20819634628535 -79.9351835833797,-2.20677369382449 -79.9375405703836,-2.21535269831712 -79.9362847361108,-2.21626718083169 -79.9382048121757,-2.2186937542924 -79.9377258111304,-2.21907696806656 -79.9365224577535,-2.22003968282697 -79.9354835635439,-2.22087082536104 -79.9335356305179,-2.22273121637985 -79.9334430072817,-2.22275004290017 -79.9332102682938,-2.22279734922806 -79.9329356175392,-2.2223382771564 -79.9326430809495,-2.22172868942784 -79.9323087534184,-2.22084583778275 -79.931628346361,-2.21935324317013 -79.9316091084244,-2.2192801725241 -79.9293900034381,-2.22005076018003 -79.9277960414973,-2.22099516132537 -79.9257838700643,-2.21331321833171 -79.9254629940437,-2.21208819407692 -79.9247477188183,-2.20920459835758</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
+	<name>Suburbio Sector 6</name>
+	<Style><LineStyle><color>50000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="Layer">Level 6</SimpleData>
+		<SimpleData name="FID_">0</SimpleData>
+		<SimpleData name="Level">6</SimpleData>
+		<SimpleData name="Nam_Sector">Suburbio Sector 6</SimpleData>
+		<SimpleData name="Des_CAMI">CM.29</SimpleData>
+		<SimpleData name="Entity">Closed Shape</SimpleData>
+		<SimpleData name="FID">31</SimpleData>
+		<SimpleData name="Field_1">Closed Shape</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.933689876039,-2.23096345317952 -79.9326159082386,-2.22974803044004 -79.9318729581696,-2.22903801614125 -79.9312785981144,-2.22773009415611 -79.9316500731489,-2.22586163213584 -79.9329130882662,-2.22410527564847 -79.9332102682938,-2.22279734922806 -79.9335356305179,-2.22273121637985 -79.9354835635439,-2.22087082536104 -79.9365224577535,-2.22003968282697 -79.9377258111304,-2.21907696806656 -79.9382048121757,-2.2186937542924 -79.938583329434,-2.2191656674154 -79.9390481892002,-2.21974522764406 -79.9403942824349,-2.22142345493738 -79.9442949091625,-2.22687814287894 -79.9446978271359,-2.22773454741463 -79.9447186671683,-2.22781156487073 -79.9446115313954,-2.22800556021985 -79.9451257831053,-2.22847977096423 -79.9458543063611,-2.22906175666625 -79.9467007636189,-2.2294998675166 -79.9466215779611,-2.23352259984504 -79.9458671680922,-2.23508784983626 -79.9445941014384,-2.235657031232 -79.9405391483931,-2.236083917132 -79.9395489854401,-2.23584675831419 -79.9387945755712,-2.23470839544819 -79.9360598397965,-2.23205221195013 -79.9341738151242,-2.2311510057294 -79.9337023089561,-2.23096127803265 -79.933689876039,-2.23096345317952</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Suburbio Sector 7</name>
+	<Style><LineStyle><color>50782878</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="Layer">Level 6</SimpleData>
+		<SimpleData name="FID_">0</SimpleData>
+		<SimpleData name="Level">6</SimpleData>
+		<SimpleData name="Nam_Sector">Suburbio Sector 7</SimpleData>
+		<SimpleData name="Des_CAMI">CM.2</SimpleData>
+		<SimpleData name="Entity">Closed Shape</SimpleData>
+		<SimpleData name="FID">29</SimpleData>
+		<SimpleData name="Field_1">Closed Shape</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.9382048121757,-2.2186937542924 -79.941611729754,-2.21597779969364 -79.946111432216,-2.21483537283782 -79.9466685382351,-2.21477070714003 -79.9466914181739,-2.21475093134443 -79.9479889458485,-2.21654190066251 -79.9491205606518,-2.21858149230973 -79.949309163119,-2.22133256489954 -79.9488848075678,-2.22308755677042 -79.9470930841291,-2.22716671889219 -79.9467158791947,-2.2287319757387 -79.9467007636189,-2.2294998675166 -79.9458543063611,-2.22906175666625 -79.9451257831053,-2.22847977096423 -79.9446115313954,-2.22800556021985 -79.9447186671683,-2.22781156487073 -79.9446978271359,-2.22773454741463 -79.9442949091625,-2.22687814287894 -79.9403942824349,-2.22142345493738 -79.9390481892002,-2.21974522764406 -79.938583329434,-2.2191656674154 -79.9382048121757,-2.2186937542924</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+ <Placemark>
+	<name>Suburbio Sector 8</name>
+	<Style><LineStyle><color>5078FA00</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="Layer">Level 6</SimpleData>
+		<SimpleData name="FID_">0</SimpleData>
+		<SimpleData name="Level">6</SimpleData>
+		<SimpleData name="Nam_Sector">Suburbio Sector 8</SimpleData>
+		<SimpleData name="Des_CAMI">CM.25</SimpleData>
+		<SimpleData name="Entity">Closed Shape</SimpleData>
+		<SimpleData name="FID">27</SimpleData>
+		<SimpleData name="Field_1">Closed Shape</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.9466914181739,-2.21475093134443 -79.9466685382351,-2.21477070714003 -79.946111432216,-2.21483537283782 -79.941611729754,-2.21597779969364 -79.9382048121757,-2.2186937542924 -79.9362847361108,-2.21626718083169 -79.9375405703836,-2.21535269831712 -79.9351835833797,-2.20677369382449 -79.9471827899451,-2.20341105525332 -79.9472570178355,-2.20338361834281 -79.9472345359795,-2.20444658944091 -79.9464329754938,-2.20662849609918 -79.9455371137745,-2.208952697449 -79.9451127582233,-2.21099229967924 -79.9459614693258,-2.21374338655927 -79.9466914181739,-2.21475093134443</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+ 
+    <Placemark>
+  	<name>Suburbio Sector 9</name>
+	<Style><LineStyle><color>5078FAF0</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="Layer">Level 6</SimpleData>
+		<SimpleData name="FID_">0</SimpleData>
+		<SimpleData name="Level">6</SimpleData>
+		<SimpleData name="Nam_Sector">Suburbio Sector 9</SimpleData>
+		<SimpleData name="Des_CAMI">CM.10</SimpleData>
+		<SimpleData name="Entity">Closed Shape</SimpleData>
+		<SimpleData name="FID">25</SimpleData>
+		<SimpleData name="Field_1">Closed Shape</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.9197386732819,-2.19035156447701 -79.9243193362117,-2.19007438430726 -79.9281856867898,-2.1899320845465 -79.9300717114621,-2.19035898378766 -79.9326178447696,-2.19225631225643 -79.9353997311612,-2.19514973347805 -79.9360685403564,-2.19616611462312 -79.9360674535062,-2.1962223117451 -79.9355210610644,-2.19670731053699 -79.934621120572,-2.19701986522945 -79.9326212535464,-2.19754583777431 -79.9257288514209,-2.19933707898472 -79.9220969487194,-2.20025318574264 -79.9199220925295,-2.19109209253901 -79.9197386732819,-2.19035156447701</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Suburbio Sector 10</name>
+	<Style><LineStyle><color>507800B4</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="Layer">Level 6</SimpleData>
+		<SimpleData name="FID_">0</SimpleData>
+		<SimpleData name="Level">6</SimpleData>
+		<SimpleData name="Nam_Sector">Suburbio Sector 10</SimpleData>
+		<SimpleData name="Des_CAMI"></SimpleData>
+		<SimpleData name="Entity">Closed Shape</SimpleData>
+		<SimpleData name="FID">12</SimpleData>
+		<SimpleData name="Field_1">Closed Shape</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.9257288514209,-2.19933707898472 -79.9326212535464,-2.19754583777431 -79.934621120572,-2.19701986522945 -79.9355210610644,-2.19670731053699 -79.9360674535062,-2.1962223117451 -79.9360685403564,-2.19616611462312 -79.9376158101511,-2.19851747889925 -79.9403505459258,-2.20088912598389 -79.9422365705981,-2.20126858916273 -79.9448298545224,-2.20107885758553 -79.9465272767275,-2.20103142468741 -79.9472816865964,-2.20221724668152 -79.9472570178355,-2.20338361834281 -79.9471827899451,-2.20341105525332 -79.9372363813654,-2.2061984215267 -79.9351835833797,-2.20677369382449 -79.9304267550628,-2.20819634628535 -79.9281314650616,-2.20892607728068 -79.9279358421642,-2.20811067192678 -79.9257288514209,-2.19933707898472</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
 	<name>Hospital Luis Vernaza</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>50787878</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer"></SimpleData>
@@ -494,24 +527,8 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.8803242624808,-2.17973050725511 -79.8805170374633,-2.18219194866796 -79.8805694611758,-2.18286131766503 -79.8806260461828,-2.18335465637643 -79.8796070825943,-2.18372866932207 -79.8795510945589,-2.18374922003317 -79.8792302996865,-2.18386696973472 -79.8777591059656,-2.18354440233065 -79.8774007391929,-2.18276644464726 -79.8765519739646,-2.18305106368235 -79.8758541009908,-2.18386696973472 -79.8754768720004,-2.18382902121643 -79.8747224156657,-2.18341158027563 -79.8739302354443,-2.18242490162268 -79.8737604831668,-2.18174181644157 -79.8737227587315,-2.18090693381996 -79.8744960789299,-2.18009102448417 -79.8748544457026,-2.17965460928328 -79.8757975181786,-2.17973050708432 -79.8787074080673,-2.17973050708431 -79.8790417355983,-2.17973050725512 -79.8803242624808,-2.17973050725511</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<name>Suburbio Sector 2</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
-		<SimpleData name="altitudeMode">clampToGround</SimpleData>
-		<SimpleData name="Layer">Level 6</SimpleData>
-		<SimpleData name="FID_">0</SimpleData>
-		<SimpleData name="Level">6</SimpleData>
-		<SimpleData name="Nam_Sector">Suburbio Sector 2</SimpleData>
-		<SimpleData name="Des_CAMI">CM.8</SimpleData>
-		<SimpleData name="Entity">Closed Shape</SimpleData>
-		<SimpleData name="FID">34</SimpleData>
-		<SimpleData name="Field_1">Closed Shape</SimpleData>
-	</SchemaData></ExtendedData>
-      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.9279358421642,-2.20811067192678 -79.9247477188183,-2.20920459835758 -79.9220909493633,-2.21028609300358 -79.922042326063,-2.21030650151442 -79.9220502127779,-2.21028081085163 -79.9224981436375,-2.20975905215843 -79.9226749584506,-2.20871553421471 -79.9227221090674,-2.20801590245009 -79.9221916646283,-2.20761272467141 -79.9216376448808,-2.20723326313141 -79.921236864638,-2.2068300851376 -79.920305639956,-2.20688937602599 -79.9179598967699,-2.20750600112321 -79.9179952597325,-2.20558497592806 -79.9151426474158,-2.2058577142262 -79.9149068943317,-2.20484976808935 -79.9117831659683,-2.20519365567264 -79.9112199809309,-2.20301434828863 -79.9112601652901,-2.20300150259376 -79.9162762914279,-2.20171312330513 -79.9197505526563,-2.20082611896644 -79.9220969487194,-2.20025318574264 -79.9257288514209,-2.19933707898472 -79.9279358421642,-2.20811067192678</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
-  </Placemark>
-  <Placemark>
 	<name>Parroquia Letamendi</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>50780000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer">PoligVerde</SimpleData>
@@ -527,7 +544,7 @@
   </Placemark>
   <Placemark>
 	<name>Parroquia García Moreno</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>50147878</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer"></SimpleData>
@@ -542,8 +559,8 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.9068361498649,-2.21851537091133 -79.9070338629406,-2.22010652503808 -79.9069844346717,-2.22289104058199 -79.9053993590151,-2.22102950121962 -79.8988040561638,-2.22251811470163 -79.8988040561638,-2.21950984244393 -79.8950431106313,-2.20829827772228 -79.8931692335059,-2.20235511375012 -79.9008553293244,-2.20031642250942 -79.9068361498649,-2.21851537091133</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<name></name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<name>Fertisa</name>
+	<Style><LineStyle><color>507896B4</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer"></SimpleData>
@@ -558,8 +575,8 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.8827649390949,-2.24079192256685 -79.8840337605328,-2.2371600718635 -79.8857796931949,-2.23218998987052 -79.886114020726,-2.22957415040013 -79.8860768732226,-2.2250898432061 -79.8847650851855,-2.21523906759755 -79.8828263730349,-2.205831708113 -79.8950431106313,-2.20829827772228 -79.8985051610582,-2.21861882449079 -79.8988040561638,-2.21950984244393 -79.8988040561638,-2.22251811470163 -79.9053993590151,-2.22102950121962 -79.9056849154422,-2.22301823732694 -79.9057211813045,-2.22365145097609 -79.9057299706405,-2.22432342909791 -79.9057400377905,-2.22509310057401 -79.9053573995798,-2.22513778896987 -79.9053263185166,-2.22487202263635 -79.9051056429681,-2.22487827596242 -79.9048072647616,-2.22521595552931 -79.9044673739749,-2.22526183926438 -79.9040853123101,-2.22531341587755 -79.9043286542925,-2.22719833433272 -79.9060320481693,-2.22702697821047 -79.9062753901517,-2.22949940030265 -79.9085576119879,-2.22945027298095 -79.9085820598841,-2.22953386974595 -79.9086983166816,-2.23010926367555 -79.9092036809793,-2.23261049212243 -79.9092036809793,-2.2330357176988 -79.9086815184767,-2.2329356644709 -79.9087809784452,-2.23261049212244 -79.9087063838803,-2.23208521644654 -79.9081842213777,-2.23206020270984 -79.9080847630552,-2.23238537518169 -79.9064188166762,-2.2317850576493 -79.9062254971888,-2.23285465937574 -79.906170169224,-2.23316078132622 -79.9053993592692,-2.23316078132621 -79.9053744938656,-2.23491170243851 -79.9037334128901,-2.23511180695873 -79.9038080080037,-2.2362624111393 -79.9057723304474,-2.23641248980606 -79.9055734122227,-2.23878873305111 -79.8963858506947,-2.23883875924211 -79.8954476258728,-2.24279039670764 -79.8934133101991,-2.24243866545939 -79.8932861654695,-2.24322206675882 -79.8909657741543,-2.24283836005304 -79.8840204932997,-2.24287033561576 -79.8842747827589,-2.24173520270586 -79.8827649390949,-2.24079192256685</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<name></name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<name>Pascuales</name>
+	<Style><LineStyle><color>5014780A</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer">Level 56</SimpleData>
@@ -574,24 +591,8 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.942686400158,-2.06734096583102 -79.9432111277124,-2.06464272863932 -79.9478170695784,-2.06558124645023 -79.9500617374498,-2.06572788980743 -79.9465635537541,-2.07889640723742 -79.9406457930022,-2.07578759130919 -79.9389258526851,-2.08191263654224 -79.9348737899043,-2.07986700594844 -79.9330955465256,-2.07922165764374 -79.9317221316219,-2.07888071880876 -79.929519395225,-2.07885636603198 -79.9260700276034,-2.07877113131024 -79.9247873602483,-2.07857379455211 -79.924121480758,-2.07823537009537 -79.9229595978234,-2.07730996392673 -79.9179247717735,-2.07274380702972 -79.9247290571867,-2.06352823800945 -79.9358649419514,-2.06643177773101 -79.9373808215529,-2.06575721847723 -79.942686400158,-2.06734096583102</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<name>Bastión Popular BL.2</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
-		<SimpleData name="altitudeMode">clampToGround</SimpleData>
-		<SimpleData name="Layer">Level 56</SimpleData>
-		<SimpleData name="FID_">0</SimpleData>
-		<SimpleData name="Level">56</SimpleData>
-		<SimpleData name="Nam_Sector">Bastión Popular BL.2</SimpleData>
-		<SimpleData name="Des_CAMI">CM.3</SimpleData>
-		<SimpleData name="Entity">Closed Shape</SimpleData>
-		<SimpleData name="FID">5</SimpleData>
-		<SimpleData name="Field_1">Closed Shape</SimpleData>
-	</SchemaData></ExtendedData>
-      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.9364465772825,-2.09276126046854 -79.9355815850025,-2.09929725419371 -79.9344405313565,-2.10598134377754 -79.9325265058858,-2.10514814859842 -79.9309069458722,-2.10833280329162 -79.9221650026167,-2.10420386018315 -79.9198460871426,-2.10207458025801 -79.9162940975672,-2.0990195213121 -79.9138463534556,-2.09709390529162 -79.9152082561944,-2.09694578088286 -79.916551754842,-2.09748273179702 -79.9173431307578,-2.0981492912927 -79.9207110794226,-2.09894545920191 -79.9215392635205,-2.09587187849445 -79.9226435089843,-2.09165032394327 -79.9255697594635,-2.09148368339571 -79.9282015444857,-2.09140962092438 -79.9284407976696,-2.09163180832776 -79.9364465772825,-2.09276126046854</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
-  </Placemark>
-  <Placemark>
 	<name>Mapasingue Este</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>507864B4</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer">Level 56</SimpleData>
@@ -606,8 +607,8 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.9338710238766,-2.14527971793414 -79.9282959055007,-2.15984614149012 -79.9255016615185,-2.15868944080979 -79.9205148050335,-2.16129874108031 -79.9197126297276,-2.16127184110067 -79.9165039285041,-2.15985959149278 -79.912971014761,-2.161621540798 -79.9120084043939,-2.16193761545416 -79.9116474255063,-2.16197124041366 -79.9115939471526,-2.16170224071654 -79.9117209582427,-2.16079436638216 -79.9120318011737,-2.16039759150033 -79.9127116528976,-2.15920853741447 -79.9129625403742,-2.15778910095528 -79.9133789949017,-2.15491624749582 -79.913495771107,-2.15251587210545 -79.9147391428311,-2.1500007072172 -79.9199666519078,-2.14900540016533 -79.9179211048778,-2.14436510861525 -79.9252476393383,-2.14112362112877 -79.925889379583,-2.14246863752728 -79.9258359012293,-2.14374640199717 -79.9299804736431,-2.1440557553379 -79.9301007999389,-2.14388090345744 -79.9338710238766,-2.14527971793414</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<name></name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<name>Barrio del Maestro</name>
+	<Style><LineStyle><color>50AA783C</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer">Level 7</SimpleData>
@@ -623,7 +624,7 @@
   </Placemark>
   <Placemark>
 	<name>Flor de Bastión</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>5014B4C8</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer">Level 56</SimpleData>
@@ -638,8 +639,8 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-79.9576419314293,-2.09948493062646 -79.9588399690341,-2.09919197784933 -79.9636562574387,-2.09801426378568 -79.9676292018368,-2.09704276968967 -79.9669987262878,-2.09538655704073 -79.9698008398391,-2.09365986536782 -79.9694856020646,-2.09196841043134 -79.9721476099383,-2.09098172753137 -79.9722830966378,-2.09102929289904 -79.9724803609225,-2.0917569784343 -79.9718849117928,-2.09200364909471 -79.9721125835189,-2.09277889948582 -79.9723052288255,-2.09314890521738 -79.9703262361299,-2.09439987632094 -79.9716222136474,-2.0957213235704 -79.9724978741322,-2.09647895281707 -79.9701686172427,-2.09806468724653 -79.9717097796959,-2.1004432858354 -79.968137084918,-2.10246949655357 -79.9676116886271,-2.10121853199009 -79.9670337527072,-2.10134186656964 -79.9665784092551,-2.09975613550873 -79.9658078280285,-2.09994994717034 -79.9662456582709,-2.10164139336463 -79.9656677223509,-2.10187044322738 -79.966123065803,-2.10444284703853 -79.9652824317376,-2.10440760865919 -79.9652123788988,-2.10525332954036 -79.9649715722655,-2.1052797583104 -79.9653130798546,-2.105799524029 -79.9651904873867,-2.10598452534406 -79.9659960950327,-2.10657476748618 -79.9671125621508,-2.10717381898074 -79.9668673772151,-2.10745572548563 -79.9674978527641,-2.10803715748858 -79.9667622979569,-2.1088123998168 -79.9682158943616,-2.11050383626505 -79.9677255244902,-2.1109795524302 -79.9684610792974,-2.11256527191499 -79.9677955773289,-2.11316432107126 -79.966639705489,-2.11189574611032 -79.9655538864879,-2.11268860558394 -79.9649584373583,-2.11184288879751 -79.9644855806965,-2.11071526569001 -79.9640477504541,-2.10965811827393 -79.963701881495,-2.10808870620104 -79.9628743654045,-2.10706810402808 -79.962383995533,-2.10668048247275 -79.9612981765319,-2.10618714580644 -79.9606677009829,-2.10594047741392 -79.9593717234654,-2.1061342882971 -79.9576419314293,-2.09948493062646</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<name></name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<name>Sauces 4</name>
+	<Style><LineStyle><color>50143CFF</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer"></SimpleData>
@@ -655,7 +656,7 @@
   </Placemark>
   <Placemark>
 	<name>Florida Norte</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>507814F0</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#UBICACIÓN_DE_COBERTURAS_DE_CLINICAS_MOVILES_">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="Layer">Level 56</SimpleData>
