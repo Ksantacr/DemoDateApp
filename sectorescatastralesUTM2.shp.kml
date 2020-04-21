@@ -28,7 +28,17 @@
 		<Placemark>
 			<name>82</name>
 			<styleUrl>#falseColor</styleUrl>
-			<Style><LineStyle><color>50B43214</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+			<Style id="inline">
+				<IconStyle>
+					<colorMode>random</colorMode>
+				</IconStyle>
+				<LineStyle>
+					<colorMode>random</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<colorMode>random</colorMode>
+				</PolyStyle>
+			</Style>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_sectorescatastralesUTM_IID">
 					<SimpleData name="Id">82</SimpleData>
